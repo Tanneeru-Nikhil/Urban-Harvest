@@ -61,3 +61,6 @@ The easiest way to deploy this application is using Vercel. Since this is a Vite
    ```bash
    vercel --prod
    ```
+### Login 
+email: admin@urbanharvest.com
+password: password123
